@@ -239,12 +239,12 @@
   margin-top: 80px;
   z-index: 3;
 }
-.section-title__theme_dark {
+.section-title_theme_dark {
   color: white;
   padding-top: 90px;
   z-index: 3;
 }
-.section-subtitle__theme_dark {
+.section-subtitle_theme_dark {
   color: white;
   z-index: 3;
 }
