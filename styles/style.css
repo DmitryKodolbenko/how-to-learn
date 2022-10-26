@@ -159,7 +159,7 @@
 
 }
 .table__cell {
-
+  list-style: none;
   margin-top: 60px;
   width: 250px;
 }
